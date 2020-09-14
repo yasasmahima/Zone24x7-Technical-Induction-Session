@@ -1,0 +1,9 @@
+Create Project Using Maven Quick Start
+Add dependencies
+Add maven assembly plugin and set manifests
+Add MANIFEST.MF file
+
+Commands ->
+mvn clean package
+mvn clean compile assembly:single
+java -jar -Path to Jar-
